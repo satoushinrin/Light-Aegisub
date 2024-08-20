@@ -131,6 +131,9 @@
 		"automation/lua/petzku.NewClipShape/New Clip Shape" : [
 			"Alt-N"
 		],
+		"automation/lua/phos.TimingAssistant/Timing Assistant/Time" : [
+			"`"
+		],
 		"automation/lua/ua.FadeWorks/FadeWorkS" : [
 			"F6"
 		],

@@ -8,7 +8,7 @@
 			"Save Every Seconds" : 60,
 			"Save on Every Change" : false
 		},
-		"Call Tips" : true,
+		"Call Tips" : false,
 		"First Start" : false,
 		"Hotkey Migrations" : [
 			{
@@ -36,7 +36,7 @@
 	},
 	"Audio" : {
 		"Auto" : {
-			"Commit" : false,
+			"Commit" : true,
 			"Focus" : false,
 			"Scroll" : true
 		},
@@ -61,17 +61,17 @@
 				"Keyframes in Dialogue Mode" : true,
 				"Keyframes in Karaoke Mode" : true,
 				"Seconds" : false,
-				"Video Position" : false
+				"Video Position" : true
 			},
 			"Waveform Style" : 0
 		},
 		"Display Height" : 200,
 		"Downmixer" : "ConvertToMono",
 		"Drag Timing" : true,
-		"Inactive Lines Display Mode" : 1,
+		"Inactive Lines Display Mode" : 3,
 		"Karaoke" : {
-			"Font Face" : "Verdana",
-			"Font Size" : 9
+			"Font Face" : "Tahoma",
+			"Font Size" : 12
 		},
 		"Lead" : {
 			"IN" : 200,
@@ -94,7 +94,7 @@
 		},
 		"Snap" : {
 			"Distance" : 10,
-			"Enable" : false
+			"Enable" : true
 		},
 		"Spectrum" : false,
 		"Start Drag Sensitivity" : 3,
@@ -303,7 +303,7 @@
 			"Audio" : "",
 			"Automation" : "",
 			"Keyframes" : "",
-			"Subtitles" : "",
+			"Subtitles" : "D:\\Torrent\\Staging",
 			"Timecodes" : "",
 			"Video" : "D:\\Torrent\\[High prio]"
 		},
@@ -513,7 +513,7 @@
 			]
 		},
 		"Preferences" : {
-			"Page" : 11
+			"Page" : 5
 		},
 		"Search Replace" : {
 			"Affect" : 0,
@@ -545,16 +545,16 @@
 		},
 		"Spell Checker" : {
 			"Backend" : "hunspell",
-			"Language" : "vi_VN",
+			"Language" : "en_US",
 			"Skip Comments" : false,
 			"Skip Uppercase" : false
 		},
 		"Style Editor" : {
 			"Last" : {
-				"Height" : -1,
-				"Width" : -1,
-				"X" : -1,
-				"Y" : -1
+				"Height" : 382,
+				"Width" : 697,
+				"X" : 457,
+				"Y" : 197
 			},
 			"Maximized" : false,
 			"Preview Text" : "Aegisub\\N0123 月語"

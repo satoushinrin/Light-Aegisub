@@ -1,0 +1,4060 @@
+{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\log\\*.json\"",
+	"sec" : 1724154026,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 961817900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154026,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 962788000
+}{
+	"file" : "..\\..\\src\\command\\command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 80,
+	"message" : "Populating command map",
+	"sec" : 1724154026,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 969855400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 91,
+	"message" : "Generating hotkeys.",
+	"sec" : 1724154026,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 970672700
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\hotkey.json\"",
+	"sec" : 1724154026,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 971165300
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=235154, maxfiles=100, numfiles=9), exiting",
+	"sec" : 1724154026,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 971165300
+}{
+	"file" : "..\\..\\libaegisub\\common\\mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 67,
+	"message" : "Loading MRU List",
+	"sec" : 1724154026,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 984622500
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\mru.json\"",
+	"sec" : 1724154026,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 985460800
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Raster: FreeType 2.5.3",
+	"sec" : 1724154027,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 4418200
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Shaper: FriBidi 0.19.6 (SIMPLE)",
+	"sec" : 1724154027,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11391100
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Initialized",
+	"sec" : 1724154027,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11391100
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "No usable fontconfig configuration file found, using fallback.",
+	"sec" : 1724154027,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11716400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 100,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 878249300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 111,
+	"message" : "Initializing context controls",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 878249300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 118,
+	"message" : "Initializing context frames",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 878249300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 122,
+	"message" : "Apply saved Maximized state",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 878249300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 125,
+	"message" : "Initialize toolbar",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 878249300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 130,
+	"message" : "Initialize menu bar",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 941206600
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 133,
+	"message" : "Create status bar",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 952687700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 136,
+	"message" : "Set icon",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 954681600
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 145,
+	"message" : "Create views and inner main window controls",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 954681600
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 187,
+	"message" : "Create background panel",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 954681600
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 190,
+	"message" : "Create subtitles grid",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 954681600
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 193,
+	"message" : "Create video box",
+	"sec" : 1724154030,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 969045100
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 196,
+	"message" : "Create audio box",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 71401500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 199,
+	"message" : "Create subtitle editing box",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 99259500
+}{
+	"file" : "..\\..\\src\\spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 197,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\dictionaries\\vi_VN.dic\"",
+	"sec" : 1724154031,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 154650900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\dictionaries\\user_vi_VN.dic\"",
+	"sec" : 1724154031,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 186224300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 202,
+	"message" : "Arrange main sizers",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 219135000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 215,
+	"message" : "Perform layout",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 220133200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 217,
+	"message" : "Leaving InitContents",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 220133200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 149,
+	"message" : "Set up drag/drop target",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 220133200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 152,
+	"message" : "Load default file",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 220133200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154031,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 220133200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 155,
+	"message" : "Display main window",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 311483400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 160,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 1724154031,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 416367100
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\autosave\\*.AUTOSAVE.ass\"",
+	"sec" : 1724154031,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 416367100
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=0, maxfiles=1000, numfiles=0), exiting",
+	"sec" : 1724154031,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 416367100
+}{
+	"file" : "..\\..\\src\\video_provider_manager.cpp",
+	"func" : "VideoProviderFactory::GetProvider",
+	"line" : 94,
+	"message" : "YUV4MPEG: video is not in a supported format.",
+	"sec" : 1724154068,
+	"section" : "manager/video/provider",
+	"severity" : 4,
+	"usec" : 475334600
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\ffms2cache\\*.ffindex\"",
+	"sec" : 1724154068,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 548362500
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=44040192, cursize=482114, maxfiles=20, numfiles=4), exiting",
+	"sec" : 1724154068,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 549360600
+}{
+	"file" : "..\\..\\src\\video_provider_manager.cpp",
+	"func" : "VideoProviderFactory::GetProvider",
+	"line" : 72,
+	"message" : "FFmpegSource: opened \"D:\\Torrent\\[High prio]\\Kazoku Haha to Shimai no Kyousei - 05.mkv\"",
+	"sec" : 1724154068,
+	"section" : "manager/video/provider",
+	"severity" : 3,
+	"usec" : 576503200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\mru.json\"",
+	"sec" : 1724154068,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 608970900
+}{
+	"file" : "..\\..\\src\\audio_provider_factory.cpp",
+	"func" : "GetAudioProvider",
+	"line" : 80,
+	"message" : "RIFF PCM WAV audio provider: File is not a RIFF file\nWave64 audio provider: File is not a RIFF file",
+	"sec" : 1724154068,
+	"section" : "audio_provider",
+	"severity" : 4,
+	"usec" : 610967600
+}{
+	"file" : "..\\..\\src\\audio_provider_factory.cpp",
+	"func" : "GetAudioProvider",
+	"line" : 72,
+	"message" : "Using audio provider: FFmpegSource",
+	"sec" : 1724154068,
+	"section" : "audio_provider",
+	"severity" : 3,
+	"usec" : 652099400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\mru.json\"",
+	"sec" : 1724154068,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 678086000
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "VideoOutGL::InitTextures",
+	"line" : 105,
+	"message" : "Video size: 720x480",
+	"sec" : 1724154068,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 795573700
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 67,
+	"message" : "VideoOutGL::TestTexture: 64x64",
+	"sec" : 1724154068,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 797669500
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 67,
+	"message" : "VideoOutGL::TestTexture: 16384x16384",
+	"sec" : 1724154068,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 798667000
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "VideoOutGL::DetectOpenGLCapabilities",
+	"line" : 85,
+	"message" : "Maximum texture size is 16384x16384",
+	"sec" : 1724154068,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 798667000
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 67,
+	"message" : "VideoOutGL::TestTexture: 16384x8192",
+	"sec" : 1724154068,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 798667000
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "VideoOutGL::InitTextures",
+	"line" : 236,
+	"message" : "Using texture size: 1024x512",
+	"sec" : 1724154068,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 799700600
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154085,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 113516800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154085,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 114513000
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 62,
+	"message" : "\"C:\\Users\\asus\\Desktop\\1920x1080 Mockup.ass\" (UTF-8)",
+	"sec" : 1724154125,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 309317000
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 62,
+	"message" : "\"D:\\Torrent\\Staging\\[240726] Succubus Connect! - 02 (DVD 720x480 h264 AC3) [0718C969].mkv\" (binary)",
+	"sec" : 1724154144,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 975036200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\SD.sty\"",
+	"sec" : 1724154160,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 833357100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\SD.sty\"",
+	"sec" : 1724154160,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 833357100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\SD.sty\"",
+	"sec" : 1724154164,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 467964100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154184,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 967853600
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154184,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 967853600
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154188,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 776943200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154188,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 776943200
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 62,
+	"message" : "\"D:\\Torrent\\Staging\\[240222] Mitasarete Mezameru Asa ni, Jimi na Choushoku o The Animation (WEB 1920x1080 HEVC AAC) [5BFF2253].mkv\" (binary)",
+	"sec" : 1724154199,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 462806300
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154206,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 531419800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\HD.sty\"",
+	"sec" : 1724154214,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 229031000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\HD.sty\"",
+	"sec" : 1724154214,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 229031000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154221,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 106519200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154221,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 107673100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154226,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 44526100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154226,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 45523200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154232,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 798500800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154232,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 799499200
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154241,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 231324900
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724154247,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 491554300
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724154247,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 491554300
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724154247,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 491554300
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724154247,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 491554300
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724154247,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 491554300
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724154247,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 491554300
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154252,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 245075700
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Full HD.sty\"",
+	"sec" : 1724154252,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 245075700
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154253,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 766382000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154253,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 766707800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154256,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 436716400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154266,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 723087200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154266,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 723087200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\SD.sty\"",
+	"sec" : 1724154268,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 866604400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\SD.sty\"",
+	"sec" : 1724154268,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 867635200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154276,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 181157000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154276,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 182154400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724154278,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 896122900
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154284,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 348077300
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154622,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 981940200
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154630,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 986241300
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154635,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 409104800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154639,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 853718100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154640,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 351710800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154640,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 751353200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154640,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 989401000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154649,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 775199100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154650,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 285036600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154650,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 313644400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154650,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 346466400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154650,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 376858000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154650,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 407421300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154650,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 639489900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154651,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 6625100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154651,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 363312200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154651,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 731309700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 237828800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 265002700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 311469700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 341823100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 374314100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 405065700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 436597400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 467916200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 497385500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 529125800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 560514500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 607041800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Left  Context: Subtitle Grid  Command: video/frame/prev",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 639648000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154652,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 845244700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 353811700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 386351000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 416181900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 445615400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 476506800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 508336200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 554508700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 589499500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 617892000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 648486000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 679394400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 710632700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 741145700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 771197500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 819407500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 849531000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 880667300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 912009400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 942180900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154653,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 973345500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 5652500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 36300100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 82724200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 112715000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 143263700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 174641000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 205364400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 236657900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 268475200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 314074200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 345200600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 376273900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 406421400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 438465400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 469773400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 502150800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 534264900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 563137700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 609404900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 640879400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 671881600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 702096700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 736152300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 764217200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 795099000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 846699300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154654,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 875067800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-1  Context (req/found): Subtitle Grid/Default   Command: video/jump/start",
+	"sec" : 1724154656,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 724555800
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154662,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 220098600
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154708,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 430671900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154708,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 844803100
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154710,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 447211000
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154712,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 425412400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154812,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 753833100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154856,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 431706300
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154858,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 261597300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154918,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 823823900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 328171300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 352355900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 399592000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 429820200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 459975200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 494177200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 521595600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 554754300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 584771000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 615006500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 663927800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 694742700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 725865000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 756754000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 787723900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 819336700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 850736100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 881783300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 926542700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 958818100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154919,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 989641200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 19642400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 50607200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 81577400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 113894300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 144054400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 191553400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 223398800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 254048000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 285369200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 316195400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 351029500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 380084900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 413448800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 442898700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 488779000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 520313100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 549661800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 581842200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 612768200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 645085600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 678511900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 705773600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 738061600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 785072900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 815674600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 845940200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 877055700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 906546900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 939147600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154920,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 969874600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 2023900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 50134700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 80866400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 111287000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 143360600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 178157700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 206040800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 236314700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 268444500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 300496400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 346843900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 377407200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 413127700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 439389400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 469147900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 500577300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 532869300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 563749000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 610665500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 641988500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 673058500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 704002600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 734919400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 766940600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 797037500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 828829500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 859997700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 891462400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 938863100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154921,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 974023000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 2005600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 30926700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 63002200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 93971900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 124892200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 169786500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 200992400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 232956400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 263830600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 297628300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 326630000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 358489400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 388199100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 436827900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 466286100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 495937000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 526507700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 557557600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 588663700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 620121800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 651945800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 698477800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 728712900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 760336600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 791076900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 824089500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 854900200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 885558400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 916472000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 963796500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154922,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 993725400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 25028500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 56004800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 87522200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 117953300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 152821000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 181056800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 227505100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 258456100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 291212700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154923,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 322134000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154934,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 21710100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154934,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 591158600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Audio  Command: time/next",
+	"sec" : 1724154936,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 869582300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Audio  Command: time/next",
+	"sec" : 1724154937,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 85565600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Audio  Command: time/next",
+	"sec" : 1724154937,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 255659400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154938,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 863491400
+}{
+	"file" : "..\\..\\src\\audio_player_dsound2.cpp",
+	"func" : "`anonymous-namespace'::DirectSoundPlayer2Thread::Play",
+	"line" : 720,
+	"message" : "Playback begun",
+	"sec" : 1724154940,
+	"section" : "audio/player/dsound",
+	"severity" : 4,
+	"usec" : 373388900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154947,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 515927100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154950,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 305046200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724154950,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 994907800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154952,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 366950800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154952,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 879058800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154952,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 906022100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154952,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 936932200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154952,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 969235500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 508200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 30900900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 61844600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 110027700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 139931200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 171854900
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 202246000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 234023000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 264508300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 296479300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Right  Context: Subtitle Grid  Command: video/frame/next",
+	"sec" : 1724154953,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 327774400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724155088,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 491545200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724155139,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 476695500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 493625600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 494688000
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 558367200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 588499600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 589180400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 589180400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 589180400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 589180400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 589180400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724155139,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 589180400
+}
