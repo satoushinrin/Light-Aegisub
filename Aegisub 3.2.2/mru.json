@@ -1,5 +1,6 @@
 {
 	"Audio" : [
+		"C:\\Users\\asus\\Desktop\\harem_clip.mp4",
 		"D:\\Torrent\\Midareuchi - 01.mkv",
 		"dummy-audio:silence?sr=44100&bd=16&ch=1&ln=396900000",
 		"D:\\Torrent\\[High prio]\\Ito o Yoru - 01 - Ups.mp4",
@@ -14,9 +15,11 @@
 	"Subtitle" : [],
 	"Timecodes" : [],
 	"Video" : [
+		"C:\\Users\\asus\\Desktop\\harem_clip.mp4",
+		"?dummy:23.976000:40000:1920:1080:47:163:254:",
+		"?dummy:23.976000:40000:640:480:47:163:254:",
 		"D:\\Torrent\\a99SKsQ.mp4",
 		"D:\\Torrent\\Midareuchi - 01.mkv",
-		"?dummy:23.976000:40000:640:480:47:163:254:",
 		"D:\\Torrent\\[High prio]\\Ito o Yoru - 01 - Ups.mp4",
 		"D:\\Torrent\\[High prio]\\Haramaseya The Animation - 02.mp4",
 		"D:\\Torrent\\[High prio]\\Kazoku Haha to Shimai no Kyousei - 05.mkv",

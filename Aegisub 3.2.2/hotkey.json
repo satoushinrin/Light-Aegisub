@@ -131,9 +131,6 @@
 		"automation/lua/petzku.NewClipShape/New Clip Shape" : [
 			"Alt-N"
 		],
-		"automation/lua/phos.TimingAssistant/Timing Assistant/Time" : [
-			"`"
-		],
 		"automation/lua/ua.FadeWorks/FadeWorkS" : [
 			"F6"
 		],
@@ -163,6 +160,9 @@
 		],
 		"edit/line/delete" : [
 			"Ctrl-Delete"
+		],
+		"edit/line/duplicate" : [
+			"Alt-D"
 		],
 		"edit/line/paste" : [
 			"Ctrl-V"

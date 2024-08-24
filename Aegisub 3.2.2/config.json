@@ -305,7 +305,7 @@
 			"Keyframes" : "",
 			"Subtitles" : "D:\\Torrent\\Staging",
 			"Timecodes" : "",
-			"Video" : "D:\\Torrent"
+			"Video" : "C:\\Users\\asus\\Desktop"
 		},
 		"Screenshot" : "?video"
 	},
@@ -443,6 +443,18 @@
 					"color" : "rgb(0, 0, 0)"
 				},
 				{
+					"color" : "rgb(191, 146, 71)"
+				},
+				{
+					"color" : "rgb(255, 255, 255)"
+				},
+				{
+					"color" : "rgb(255, 156, 0)"
+				},
+				{
+					"color" : "rgb(191, 146, 71)"
+				},
+				{
 					"color" : "rgb(255, 0, 0)"
 				},
 				{
@@ -461,7 +473,67 @@
 					"color" : "rgb(255, 0, 255)"
 				},
 				{
-					"color" : "rgb(255, 255, 255)"
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
 				}
 			]
 		},
@@ -513,7 +585,7 @@
 			]
 		},
 		"Preferences" : {
-			"Page" : 4
+			"Page" : 6
 		},
 		"Search Replace" : {
 			"Affect" : 0,
@@ -551,8 +623,8 @@
 		},
 		"Style Editor" : {
 			"Last" : {
-				"Height" : 382,
-				"Width" : 697,
+				"Height" : 561,
+				"Width" : 873,
 				"X" : 457,
 				"Y" : 197
 			},
@@ -616,17 +688,17 @@
 		"Detached" : {
 			"Enabled" : false,
 			"Last" : {
-				"X" : 84,
-				"Y" : 125
+				"X" : -188,
+				"Y" : 45
 			},
 			"Maximized" : false
 		},
 		"Dummy" : {
 			"FPS" : 23.975999999999999,
 			"Last" : {
-				"Height" : 480,
+				"Height" : 1080,
 				"Length" : 40000,
-				"Width" : 640
+				"Width" : 1920
 			},
 			"Pattern" : false
 		},
