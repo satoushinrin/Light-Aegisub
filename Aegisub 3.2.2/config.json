@@ -32,7 +32,7 @@
 		"Save Charset" : "UTF-8",
 		"Save UI State" : true,
 		"Show Toolbar" : true,
-		"Toolbar Icon Size" : 31
+		"Toolbar Icon Size" : 32
 	},
 	"Audio" : {
 		"Auto" : {
@@ -57,25 +57,25 @@
 		"Display" : {
 			"Draw" : {
 				"Cursor Time" : true,
-				"Inactive Comments" : true,
+				"Inactive Comments" : false,
 				"Keyframes in Dialogue Mode" : true,
-				"Keyframes in Karaoke Mode" : true,
+				"Keyframes in Karaoke Mode" : false,
 				"Seconds" : false,
 				"Video Position" : true
 			},
 			"Waveform Style" : 0
 		},
-		"Display Height" : 200,
+		"Display Height" : 225,
 		"Downmixer" : "ConvertToMono",
 		"Drag Timing" : true,
 		"Inactive Lines Display Mode" : 3,
 		"Karaoke" : {
 			"Font Face" : "Tahoma",
-			"Font Size" : 12
+			"Font Size" : 5
 		},
 		"Lead" : {
-			"IN" : 200,
-			"OUT" : 300
+			"IN" : 100,
+			"OUT" : 350
 		},
 		"Line Boundaries Thickness" : 2,
 		"Link" : true,
@@ -93,11 +93,11 @@
 			}
 		},
 		"Snap" : {
-			"Distance" : 10,
+			"Distance" : 8,
 			"Enable" : true
 		},
 		"Spectrum" : false,
-		"Start Drag Sensitivity" : 3,
+		"Start Drag Sensitivity" : 8,
 		"Track Cursor" : {
 			"Font Face" : ""
 		},
@@ -305,7 +305,7 @@
 			"Keyframes" : "",
 			"Subtitles" : "D:\\Torrent\\Staging",
 			"Timecodes" : "",
-			"Video" : "D:\\Torrent\\[High prio]"
+			"Video" : "D:\\Torrent"
 		},
 		"Screenshot" : "?video"
 	},
@@ -382,7 +382,7 @@
 			],
 			"Focus Allow" : true,
 			"Font Face" : "Tahoma",
-			"Font Size" : 14,
+			"Font Size" : 15,
 			"Hide Overrides" : 1,
 			"Hide Overrides Char" : "✨",
 			"Highlight Subtitles in Frame" : true
@@ -428,7 +428,7 @@
 		}
 	},
 	"Timing" : {
-		"Default Duration" : 2000
+		"Default Duration" : 3000
 	},
 	"Tool" : {
 		"Colour Picker" : {
@@ -513,7 +513,7 @@
 			]
 		},
 		"Preferences" : {
-			"Page" : 5
+			"Page" : 4
 		},
 		"Search Replace" : {
 			"Affect" : 0,
@@ -577,7 +577,7 @@
 			"Language" : "en_US"
 		},
 		"Timing Post Processor" : {
-			"Adjacent Bias" : 0.90000000000000002,
+			"Adjacent Bias" : 0.92000000000000004,
 			"Enable" : {
 				"Adjacent" : true,
 				"Keyframe" : true,
@@ -588,12 +588,12 @@
 			},
 			"Only Selection" : false,
 			"Threshold" : {
-				"Adjacent Gap" : 300,
-				"Adjacent Overlap" : 50,
-				"Key End After" : 250,
-				"Key End Before" : 200,
-				"Key Start After" : 150,
-				"Key Start Before" : 200
+				"Adjacent Gap" : 480,
+				"Adjacent Overlap" : 500,
+				"Key End After" : 500,
+				"Key End Before" : 400,
+				"Key Start After" : 250,
+				"Key Start Before" : 250
 			}
 		},
 		"Translation Assistant" : {

@@ -1,0 +1,433 @@
+{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724466995,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 935002800
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\log\\*.json\"",
+	"sec" : 1724466995,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 935002800
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=889770, maxfiles=100, numfiles=37), exiting",
+	"sec" : 1724466995,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 937023100
+}{
+	"file" : "..\\..\\src\\command\\command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 80,
+	"message" : "Populating command map",
+	"sec" : 1724466995,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 937996300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 91,
+	"message" : "Generating hotkeys.",
+	"sec" : 1724466995,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 938991300
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\hotkey.json\"",
+	"sec" : 1724466995,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 938991300
+}{
+	"file" : "..\\..\\libaegisub\\common\\mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 67,
+	"message" : "Loading MRU List",
+	"sec" : 1724466995,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 948967900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\mru.json\"",
+	"sec" : 1724466995,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 948967900
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Raster: FreeType 2.5.3",
+	"sec" : 1724466995,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 965230500
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Shaper: FriBidi 0.19.6 (SIMPLE)",
+	"sec" : 1724466995,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 968169300
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Initialized",
+	"sec" : 1724466995,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 968169300
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "No usable fontconfig configuration file found, using fallback.",
+	"sec" : 1724466995,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 968169300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 100,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 545070500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 111,
+	"message" : "Initializing context controls",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 545070500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 118,
+	"message" : "Initializing context frames",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 545070500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 122,
+	"message" : "Apply saved Maximized state",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 545070500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 125,
+	"message" : "Initialize toolbar",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 545070500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 130,
+	"message" : "Initialize menu bar",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 708324000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 133,
+	"message" : "Create status bar",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 722088800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 136,
+	"message" : "Set icon",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 724082200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 145,
+	"message" : "Create views and inner main window controls",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 724082200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 187,
+	"message" : "Create background panel",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 724082200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 190,
+	"message" : "Create subtitles grid",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 725079600
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 193,
+	"message" : "Create video box",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 735714000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 196,
+	"message" : "Create audio box",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 850767200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 199,
+	"message" : "Create subtitle editing box",
+	"sec" : 1724466999,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 909628700
+}{
+	"file" : "..\\..\\src\\spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 197,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\dictionaries\\en_US.dic\"",
+	"sec" : 1724466999,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 948785700
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\dictionaries\\user_en_US.dic\"",
+	"sec" : 1724466999,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 982503200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 202,
+	"message" : "Arrange main sizers",
+	"sec" : 1724467000,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 13685800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 215,
+	"message" : "Perform layout",
+	"sec" : 1724467000,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 13685800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 217,
+	"message" : "Leaving InitContents",
+	"sec" : 1724467000,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 13685800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 149,
+	"message" : "Set up drag/drop target",
+	"sec" : 1724467000,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 13685800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 152,
+	"message" : "Load default file",
+	"sec" : 1724467000,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 13685800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724467000,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 13685800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 155,
+	"message" : "Display main window",
+	"sec" : 1724467000,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 45238300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 160,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 1724467000,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 127747000
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\autosave\\*.AUTOSAVE.ass\"",
+	"sec" : 1724467000,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 127747000
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=0, maxfiles=1000, numfiles=0), exiting",
+	"sec" : 1724467000,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 127747000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724467601,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 811526600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 825490100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 825490100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 825490100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 826486700
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 826486700
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 826486700
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 831609700
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 831609700
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724467601,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 831609700
+}

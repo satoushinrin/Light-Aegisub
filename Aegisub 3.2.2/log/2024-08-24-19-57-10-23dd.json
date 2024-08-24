@@ -1,0 +1,937 @@
+{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\log\\*.json\"",
+	"sec" : 1724504230,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 462790000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724504230,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 462790000
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=1013874, maxfiles=100, numfiles=48), exiting",
+	"sec" : 1724504230,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 464785100
+}{
+	"file" : "..\\..\\src\\command\\command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 80,
+	"message" : "Populating command map",
+	"sec" : 1724504230,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 465309700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 91,
+	"message" : "Generating hotkeys.",
+	"sec" : 1724504230,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 465782100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\hotkey.json\"",
+	"sec" : 1724504230,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 465782100
+}{
+	"file" : "..\\..\\libaegisub\\common\\mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 67,
+	"message" : "Loading MRU List",
+	"sec" : 1724504230,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 466779400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\mru.json\"",
+	"sec" : 1724504230,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 466779400
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Raster: FreeType 2.5.3",
+	"sec" : 1724504230,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 467776200
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Shaper: FriBidi 0.19.6 (SIMPLE)",
+	"sec" : 1724504230,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 469817100
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Initialized",
+	"sec" : 1724504230,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 469817100
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "No usable fontconfig configuration file found, using fallback.",
+	"sec" : 1724504230,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 469817100
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 100,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 611582200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 111,
+	"message" : "Initializing context controls",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 611582200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 118,
+	"message" : "Initializing context frames",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 611582200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 122,
+	"message" : "Apply saved Maximized state",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 611582200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 125,
+	"message" : "Initialize toolbar",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 611582200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 130,
+	"message" : "Initialize menu bar",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 763341200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 133,
+	"message" : "Create status bar",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 774827400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 136,
+	"message" : "Set icon",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 776814700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 145,
+	"message" : "Create views and inner main window controls",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 777950400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 187,
+	"message" : "Create background panel",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 777950400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 190,
+	"message" : "Create subtitles grid",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 777950400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 193,
+	"message" : "Create video box",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 786800400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 196,
+	"message" : "Create audio box",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 866459900
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 199,
+	"message" : "Create subtitle editing box",
+	"sec" : 1724504233,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 928348300
+}{
+	"file" : "..\\..\\src\\spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 197,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\dictionaries\\en_US.dic\"",
+	"sec" : 1724504233,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 969671400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\dictionaries\\user_en_US.dic\"",
+	"sec" : 1724504233,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 988173000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 202,
+	"message" : "Arrange main sizers",
+	"sec" : 1724504234,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 10114800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 215,
+	"message" : "Perform layout",
+	"sec" : 1724504234,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 11112400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 217,
+	"message" : "Leaving InitContents",
+	"sec" : 1724504234,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 11112400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 149,
+	"message" : "Set up drag/drop target",
+	"sec" : 1724504234,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 11112400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 152,
+	"message" : "Load default file",
+	"sec" : 1724504234,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 11112400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\catalog\\Default.sty\"",
+	"sec" : 1724504234,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 11112400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 155,
+	"message" : "Display main window",
+	"sec" : 1724504234,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 49128600
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 160,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 1724504234,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 123205000
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\autosave\\*.AUTOSAVE.ass\"",
+	"sec" : 1724504234,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 124205400
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_ab11869ac7e0ed3c6bc7e4393e58c0ac>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=0, maxfiles=1000, numfiles=0), exiting",
+	"sec" : 1724504234,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 124456000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialog::LuaDialog",
+	"line" : 377,
+	"message" : "creating LuaDialoug, addr: 000000750A0FF840",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,7)(10,1), ",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'makePfix', (0,2)(10,1), Try to create prefix directory.",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'prefix', (0,1)(10,1), Prefix the encoded video is written. Useful values are ?video for the directory of the currently loaded video and ?script for the directory of the currently open script.",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,3)(10,1), ",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'preset', (0,4)(10,1), Choose an existing preset by name.",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'writeLog', (0,12)(10,1), Write encode log. Allows aegisub-motion to print information if an encode fails. Only matters on Windows.",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'encBin', (0,6)(10,1), The full path to your encoding binary (x264.exe if you're using the default preset)",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,0)(10,1), ",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'command', (0,8)(10,4), If you want to use a custom encoding command, write it here.",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,5)(10,1), ",
+	"sec" : 1724504244,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 696840000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialog::LuaDialog",
+	"line" : 377,
+	"message" : "creating LuaDialoug, addr: 000000750A0FF840",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 723052000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,7)(10,1), ",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 723052000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'makePfix', (0,2)(10,1), Try to create prefix directory.",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 723052000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'prefix', (0,1)(10,1), Prefix the encoded video is written. Useful values are ?video for the directory of the currently loaded video and ?script for the directory of the currently open script.",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 723052000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,3)(10,1), ",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 723052000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'preset', (0,4)(10,1), Choose an existing preset by name.",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 723052000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'writeLog', (0,12)(10,1), Write encode log. Allows aegisub-motion to print information if an encode fails. Only matters on Windows.",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 723052000
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'encBin', (0,6)(10,1), The full path to your encoding binary (x264.exe if you're using the default preset)",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 724049400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,0)(10,1), ",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 724049400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'command', (0,8)(10,4), If you want to use a custom encoding command, write it here.",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 724049400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,5)(10,1), ",
+	"sec" : 1724504249,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 724049400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504250,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 714862500
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialog::LuaDialog",
+	"line" : 377,
+	"message" : "creating LuaDialoug, addr: 000000750A0FF840",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 299647200
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,7)(10,1), ",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 299647200
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'makePfix', (0,2)(10,1), Try to create prefix directory.",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 299647200
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'prefix', (0,1)(10,1), Prefix the encoded video is written. Useful values are ?video for the directory of the currently loaded video and ?script for the directory of the currently open script.",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 299647200
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,3)(10,1), ",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 300644400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'preset', (0,4)(10,1), Choose an existing preset by name.",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 300644400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'writeLog', (0,12)(10,1), Write encode log. Allows aegisub-motion to print information if an encode fails. Only matters on Windows.",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 300644400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'encBin', (0,6)(10,1), The full path to your encoding binary (x264.exe if you're using the default preset)",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 300644400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,0)(10,1), ",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 300644400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: 'command', (0,8)(10,4), If you want to use a custom encoding command, write it here.",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 300644400
+}{
+	"file" : "..\\..\\src\\auto4_lua_dialog.cpp",
+	"func" : "Automation4::LuaDialogControl::LuaDialogControl",
+	"line" : 134,
+	"message" : "created control: '', (0,5)(10,1), ",
+	"sec" : 1724504255,
+	"section" : "automation/lua/dialog",
+	"severity" : 4,
+	"usec" : 300644400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504257,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 499739400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504257,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 499739400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504257,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 499739400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504257,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 499739400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504257,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 499739400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504257,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 499739400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504257,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 499739400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"G:\\Aegisub Old\\Light-Aegisub\\Aegisub 3.2.2\\config.json\"",
+	"sec" : 1724504258,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 250140600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 252199600
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 277113200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 277113200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 277113200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 277113200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 277113200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 319993100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 319993100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 319993100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 319993100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 319993100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 321993400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 321993400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 321993400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 321993400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1724504258,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 321993400
+}

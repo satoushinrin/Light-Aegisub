@@ -11,38 +11,16 @@ local interface, setProgress, setTask
 local versionRecord, clipboard, json, ConfigHandler, DataWrapper
 local LineCollection, log, Math, MotionHandler, Statistics, TrimHandler
 
-haveDepCtrl, DependencyControl = pcall require, "DependencyControl"
-
-if haveDepCtrl
-	versionRecord = DependencyControl {
-		url: 'https://github.com/TypesettingTools/Aegisub-Motion'
-		feed: 'https://raw.githubusercontent.com/TypesettingTools/Aegisub-Motion/DepCtrl/DependencyControl.json'
-		{
-			'aegisub.clipboard'
-			'json'
-			{ 'a-mo.ConfigHandler',  version: '1.1.4'  }
-			{ 'a-mo.DataWrapper',    version: '1.0.2'    }
-			{ 'a-mo.LineCollection', version: '1.2.0' }
-			{ 'a-mo.Log' ,           version: '1.0.0'            }
-			{ 'a-mo.Math' ,          version: '1.0.0'           }
-			{ 'a-mo.MotionHandler',  version: '1.1.7'  }
-			{ 'a-mo.Statistics' ,    version: '0.1.3'     }
-			{ 'a-mo.TrimHandler',    version: '1.0.5'    }
-		}
-	}
-	clipboard, json, ConfigHandler, DataWrapper, LineCollection, log, Math, MotionHandler, Statistics, TrimHandler = versionRecord\requireModules!
-
-else
-	clipboard      = require 'aegisub.clipboard'
-	json           = require 'json'
-	ConfigHandler  = require 'a-mo.ConfigHandler'
-	DataWrapper    = require 'a-mo.DataWrapper'
-	LineCollection = require 'a-mo.LineCollection'
-	log            = require 'a-mo.Log'
-	Math           = require 'a-mo.Math'
-	MotionHandler  = require 'a-mo.MotionHandler'
-	Statistics     = require 'a-mo.Statistics'
-	TrimHandler    = require 'a-mo.TrimHandler'
+clipboard      = require 'aegisub.clipboard'
+json           = require 'json'
+ConfigHandler  = require 'a-mo.ConfigHandler'
+DataWrapper    = require 'a-mo.DataWrapper'
+LineCollection = require 'a-mo.LineCollection'
+log            = require 'a-mo.Log'
+Math           = require 'a-mo.Math'
+MotionHandler  = require 'a-mo.MotionHandler'
+Statistics     = require 'a-mo.Statistics'
+TrimHandler    = require 'a-mo.TrimHandler'
 
 statsTemplate = {
 	apply: {
